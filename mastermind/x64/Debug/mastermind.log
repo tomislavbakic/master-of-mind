@@ -1,0 +1,19 @@
+﻿  mastermind.cpp
+D:\IV godina\Izborni seminar\Master mind\mastermind\engine.h(98,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\variables.h(62,1): warning C4005: 'ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : see previous definition of 'ERROR'
+D:\IV godina\Izborni seminar\Master mind\mastermind\variables.h(63,1): warning C4005: 'NO_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(220): message : see previous definition of 'NO_ERROR'
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(54,20): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(56,16): warning C4018: '<': signed/unsigned mismatch
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(76,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(76,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(263,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(534,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(615,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(687,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(703,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(822,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\mastermind.cpp(855,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\IV godina\Izborni seminar\Master mind\mastermind\engine.h(89): warning C4172: returning address of local variable or temporary: a
+  mastermind.vcxproj -> D:\IV godina\Izborni seminar\Master mind\x64\Debug\mastermind.exe

@@ -1,0 +1,23 @@
+﻿  mastermind.cpp
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\engine.h(98,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\variables.h(62,1): warning C4005: 'ERROR': macro redefinition
+D:\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h(118): message : see previous definition of 'ERROR'
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\variables.h(63,1): warning C4005: 'NO_ERROR': macro redefinition
+D:\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(220): message : see previous definition of 'NO_ERROR'
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(54,20): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(56,16): warning C4018: '<': signed/unsigned mismatch
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(76,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(76,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(263,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(534,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(615,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(687,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(703,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(822,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\mastermind\mastermind.cpp(855,79): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 345 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  mastermind.vcxproj -> D:\PMF\IV GODINA\Izborni seminar\master-of-mind-master\x64\Release\mastermind.exe

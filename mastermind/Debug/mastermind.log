@@ -1,0 +1,4 @@
+﻿  mastermind.cpp
+C:\Users\bakic\source\repos\mastermind\mastermind\mastermind.cpp(88,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\bakic\source\repos\mastermind\mastermind\mastermind.cpp(88,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  mastermind.vcxproj -> C:\Users\bakic\source\repos\mastermind\Debug\mastermind.exe

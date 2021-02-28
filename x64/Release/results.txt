@@ -1,0 +1,7 @@
+Jana 36
+Zmaja 35
+Kaca 32
+Unsigned 28
+Tomi 25
+Maja 15
+Lepi      11

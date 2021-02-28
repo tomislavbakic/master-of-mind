@@ -1,0 +1,5 @@
+Marija 36
+Jana 36
+Zmaja 35
+Kaca 32
+Unsigned 28
